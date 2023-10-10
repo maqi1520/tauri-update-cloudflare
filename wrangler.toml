@@ -4,8 +4,8 @@ compatibility_date = "2022-03-26"
 main = "src/index.ts"
 
 [vars]
-GITHUB_ACCOUNT = 'killeencode'
-GITHUB_REPO = 'brancato'
+GITHUB_ACCOUNT = 'maqi1520'
+GITHUB_REPO = 'mdx-editor'
 GITHUB_TOKEN = '' # Optional - used with private repos
 
 [build]
